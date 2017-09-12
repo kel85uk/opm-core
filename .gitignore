@@ -43,4 +43,6 @@ DartConfiguration.tcl
 Testing/
 .DS_Store
 .idea
-build
+
+# Build directory
+build/
